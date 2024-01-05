@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="HWJ-NUMPY" id="6a3d8360-ec93-4350-99f6-c0e8670fd52d">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
